@@ -10,10 +10,6 @@ import java.lang.reflect.Type;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * converter class for {@link Step}
- * to be used in {@link AppDatabase}
- */
 public class StepListConverter {
 
     private static Gson gson = new Gson();

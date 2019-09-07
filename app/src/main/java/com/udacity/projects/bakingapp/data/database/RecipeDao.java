@@ -10,10 +10,6 @@ import com.udacity.projects.bakingapp.data.model.Recipe;
 
 import java.util.List;
 
-/**
- * class with methods for carrying out
- * database operations with {@link AppDatabase}
- */
 @Dao
 public interface RecipeDao {
 

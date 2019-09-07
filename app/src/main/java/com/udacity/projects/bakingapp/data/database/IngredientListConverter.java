@@ -10,10 +10,6 @@ import java.lang.reflect.Type;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * converter class for {@link Ingredient}
- * used in {@link AppDatabase}
- */
 public class IngredientListConverter {
 
     private static Gson gson = new Gson();
