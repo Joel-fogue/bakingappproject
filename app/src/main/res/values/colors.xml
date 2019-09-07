@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#ffffff</color>
-    <color name="colorPrimaryDark">#cfd8dc</color>
+    <color name="colorPrimaryDark">#dccfd8</color>
     <color name="colorAccent">#42a5f5</color>
     <color name="color">#29302e</color>
-    <color name="step_bg">#a6dbddde</color>
-    <color name="placeholder_bg">#bdbdbd</color>
+    <color name="step_bg">#D1AAC5</color>
+    <color name="placeholder_bg">#D1AAC5</color>
 </resources>
